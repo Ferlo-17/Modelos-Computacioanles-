@@ -1,0 +1,21 @@
+# Definiciones
+## Librería:
+### Definición: Es un conjunto de funciones, clases y rutinas reutilizables que se agrupan para realizar tareas específicas. Las librerías suelen estar precompiladas y se pueden invocar desde otros programas.
+Uso: Se utiliza para reducir la duplicación de código y facilitar la implementación de funcionalidades comunes.
+Ejemplo: math.h en C es una librería que contiene funciones matemáticas.
+## Biblioteca:
+### Definición: En muchos contextos, "librería" y "biblioteca" se usan de manera intercambiable, especialmente en inglés ("library"). Sin embargo, en algunos contextos más formales, una biblioteca puede referirse a una colección de libros, materiales o recursos más amplia y organizada, no solo funciones y rutinas de código.
+Uso: Se utiliza en el mismo sentido que una librería, aunque puede incluir documentación y otros recursos asociados.
+Ejemplo: En Python, la Biblioteca Estándar de Python incluye múltiples librerías para diversas tareas.
+## Script:
+### Definición: Un script es un archivo de texto que contiene código en un lenguaje interpretado que se ejecuta directamente sin necesidad de ser compilado. Suelen ser archivos relativamente pequeños que automatizan tareas.
+Uso: Se utiliza para ejecutar tareas específicas o automatizar procesos. Un script es autónomo y se ejecuta desde principio a fin.
+Ejemplo: Un archivo .py en Python que suma dos números es un script.
+## Paquete:
+### Definición: Un paquete es una colección de módulos organizados en directorios que permiten agrupar funcionalidades relacionadas. En Python, un paquete es un directorio que contiene un archivo __init__.py.
+Uso: Se utiliza para estructurar y organizar módulos relacionados, facilitando la reutilización y el mantenimiento del código.
+Ejemplo: numpy es un paquete en Python que contiene varios módulos para operaciones numéricas.
+## Módulo:
+### Definición: Un módulo es un solo archivo que contiene definiciones y funcionalidades, como funciones, clases o variables, que pueden ser importadas y usadas en otros scripts o programas.
+Uso: Se utiliza para encapsular código en un solo archivo, haciéndolo reutilizable en otros programas.
+Ejemplo: Un archivo .py con funciones matemáticas que puedes importar en otro archivo es un módulo.
